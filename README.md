@@ -5,7 +5,7 @@ Sometimes, when I'm bored, I start some completely useless project just to do so
 
 ![NotRambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRambi&show_icons=true&rank_icon=github&theme=radical)
 
-## Language used
+## Languages used
 For all my projects and works:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,unity,cs,java,js,html,css,php,postgres,arduino,raspberrypi,matlab)](https://skillicons.dev)
