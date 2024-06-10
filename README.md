@@ -1,7 +1,7 @@
 ## Hi there, My name is Alessio 👋
 I'm a student at the University of La Sapienza in Rome.<br>
 I am studying computer science engineering and am passionate about programming and everything related to technology.<br>
-Sometimes, when I'm bored, I start some completely useless project to do something. Everything but studying.
+Sometimes, when I'm bored, I start some completely useless project just to do something. Everything but studying.
 
 ![NotRambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRambi&show_icons=true&rank_icon=github&theme=radical)
 
