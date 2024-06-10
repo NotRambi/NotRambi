@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, My name is Alessio 👋
+I'm a student at the University of La Sapienza in Rome.<br>
+I am studying computer science engineering and am passionate about programming and everything related to technology.<br>
+Sometimes, when I'm bored, I start some completely useless project to do something. Everything but studying.
 
-<!--
-**NotRambi/NotRambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![NotRambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRambi&show_icons=true&rank_icon=github&theme=radical)
 
-Here are some ideas to get you started:
+## Language used
+For all my projects and works:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=py,c,unity,cs,java,js,html,css,php,postgres,arduino,raspberrypi,matlab)](https://skillicons.dev)
+
+Here on github:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotRambi&layout=compact&theme=radical)
+
+## Contact me
+[![Insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_lavoree_/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alessio-lavore-822798297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
