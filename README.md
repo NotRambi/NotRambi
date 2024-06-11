@@ -10,7 +10,7 @@ For all my projects and works:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,unity,cs,java,js,html,css,php,postgres,arduino,raspberrypi,matlab)](https://skillicons.dev)
 
-Here on github:
+Here on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotRambi&layout=compact&theme=radical)
 
