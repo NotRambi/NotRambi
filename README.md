@@ -8,7 +8,7 @@ Sometimes, when I'm bored, I start some completely useless project just to do so
 ## Languages used
 For all my projects and works:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,unity,cs,java,js,html,css,php,postgres,arduino,raspberrypi,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,rust,unity,cs,ts,js,html,css,nodejs,react,php,mongo,postgres,sqlite,arduino,raspberrypi,docker)](https://skillicons.dev)
 
 Here on GitHub:
 
