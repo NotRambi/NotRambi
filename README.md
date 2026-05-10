@@ -3,7 +3,7 @@ I'm a Computer Engineer and a student at the University of La Sapienza in Rome.<
 I am studying for an MSc in Engineering in Computer Science and am passionate about programming and everything related to technology.<br>
 Sometimes, when I'm bored, I start some completely useless projects just to do something. Everything but studying.
 
-![NotRambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRambi&show_icons=true&rank_icon=github&theme=radical)
+![NotRambi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NotRambi&show_icons=true&rank_icon=github&theme=radical)
 
 ## Languages used
 For all my projects and works:
@@ -12,7 +12,7 @@ For all my projects and works:
 
 Here on GitHub:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotRambi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotRambi&layout=compact&theme=radical)
 
 ## Contact me
 [![Insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_lavoree_/)
